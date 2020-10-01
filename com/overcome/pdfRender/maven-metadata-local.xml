@@ -3,11 +3,12 @@
   <groupId>com.overcome</groupId>
   <artifactId>pdfRender</artifactId>
   <versioning>
-    <release>1.6.1</release>
+    <release>1.6.2</release>
     <versions>
       <version>1.6.0</version>
       <version>1.6.1</version>
+      <version>1.6.2</version>
     </versions>
-    <lastUpdated>20201001183408</lastUpdated>
+    <lastUpdated>20201001214808</lastUpdated>
   </versioning>
 </metadata>
