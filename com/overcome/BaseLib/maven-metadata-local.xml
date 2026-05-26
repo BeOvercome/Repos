@@ -3,7 +3,7 @@
   <groupId>com.overcome</groupId>
   <artifactId>BaseLib</artifactId>
   <versioning>
-    <release>1.10.28</release>
+    <release>1.10.26b</release>
     <versions>
       <version>1.7</version>
       <version>1.7.1</version>
@@ -49,7 +49,8 @@
       <version>1.10.26</version>
       <version>1.10.27</version>
       <version>1.10.28</version>
+      <version>1.10.26b</version>
     </versions>
-    <lastUpdated>20260519193251</lastUpdated>
+    <lastUpdated>20260526171939</lastUpdated>
   </versioning>
 </metadata>
